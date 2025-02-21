@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+<img align = "right" alt="Img" Width="400" Src="https://images.app.goo.gl/sPonfb3CLAgNdH6P9">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithankush&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
